@@ -2,12 +2,5 @@
 ![](images/RubyOnRails.png)
 
 ### Welcome to Ruby on Rails
-The Ruby on Rails split up into two main sections:
-
-#Ruby language
-![](https://github.com/mehdizebarjadan/Playing-with-Ruby-on-Rails/blob/master/images/Ruby.png)
-
-#Rails framework
-![](https://github.com/mehdizebarjadan/Playing-with-Ruby-on-Rails/blob/master/images/Rails.png)
 
 * **[Read more...](https://github.com/mehdizebarjadan/Playing-with-Ruby-on-Rails/wiki)**
