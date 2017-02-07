@@ -1,4 +1,4 @@
- [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/mehdizebarjadan) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mehdizebarjadan/Playing-with-Ruby-on-Rails)
+[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/mehdizebarjadan/Playing-with-Ruby-on-Rails)
 ### Welcome to Ruby on Rails
 ![](images/RubyOnRails.png)
 
