@@ -23,7 +23,7 @@
 #
 # .find_all {|obj| block} or .select {|obj| block} ; returns an array containing all elements of enum for which block is not false
 # puts (1..10).find_all { |i| i % 3 == 0 }
-puts (1..10).select{ |i| i % 3 == 0 }
+# puts (1..10).select{ |i| i % 3 == 0 }
 #
 # .reject {|obj| block} -> opposite of find_all
 # puts (1..10).reject { |i| i % 3 == 0 }
