@@ -384,6 +384,6 @@ program is done, x should have no negative values, say
 =end
 
 # 					▼▼▼▼ Answer 1 ▼▼▼▼
-x = [-1, -3, 2]
-x.each { |x| if x>0 then puts x else puts 'Mehdi' end }
-# x.each { |x| x>0 ? (puts x) : (puts 'Mehdi') }
+# x = [-1, -3, 2]
+# x.each { |x| if x>0 then puts x else puts 'Mehdi' end }
+# # x.each { |x| x>0 ? (puts x) : (puts 'Mehdi') }
